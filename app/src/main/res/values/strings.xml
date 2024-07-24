@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WeRent</string>
+    <string name="no_account_register_now">No Account ? Register Now</string>
+    <string name="log_in">Log In</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="email_phone"> Phone </string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome to WeRent</string>
+    <string name="logo">logor</string>
+    <string name="profilepic">Profile picture</string>
+    <string name="displayname">Name</string>
+    <string name="save">Save</string>
+    <string name="regnote">Join We Rent now to start \n  bussines</string>
+</resources>
